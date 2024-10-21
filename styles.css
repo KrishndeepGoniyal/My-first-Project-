@@ -253,7 +253,7 @@ font-family: "Montserrat", sans-serif;
 
 .cards:hover{
     transform:scale(1.2);
-    margin:70px;
+    margin:0 70px;
 }
 
 
